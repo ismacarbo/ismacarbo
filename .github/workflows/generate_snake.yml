@@ -41,3 +41,11 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for Git Errors
+        if: failure()
+        run: |
+          echo "Checking for Git errors..."
+          git status
+          echo "Exit code: $?"
+          exit 1
