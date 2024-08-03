@@ -27,25 +27,38 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      
+      - name: Verify git configuration
+        run: |
+          git config --list --global
 
       - name: Add generated snake
         run: |
           git add dist/snake.svg
+        continue-on-error: true
 
       - name: Commit changes
         run: |
           git commit -m "Generated snake animation" || echo "No changes to commit"
+        continue-on-error: true
 
       - name: Push changes
         run: |
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Check for Git Errors
         if: failure()
         run: |
           echo "Checking for Git errors..."
           git status
+          git log -1
           echo "Exit code: $?"
           exit 1
+
+      - name: Output directory contents
+        run: |
+          echo "Directory contents after job:"
+          ls -la dist/
