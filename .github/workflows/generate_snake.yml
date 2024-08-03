@@ -23,15 +23,21 @@ jobs:
           github_user_name: ismacarbo  # Sostituisci con il tuo nome utente GitHub
           outputs: dist/snake.svg
 
-      - name: Add & Commit
+      - name: Configure git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      - name: Add generated snake
+        run: |
           git add dist/snake.svg
-          git commit -m "Generated snake animation"
-        continue-on-error: true
+
+      - name: Commit changes
+        run: |
+          git commit -m "Generated snake animation" || echo "No changes to commit"
 
       - name: Push changes
-        run: git push
+        run: |
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
