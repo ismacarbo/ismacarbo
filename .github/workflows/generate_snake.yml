@@ -20,8 +20,11 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: ismacarbo
+          github_user_name: ismacarbo  # Sostituisci con il tuo nome utente GitHub
           outputs: dist/snake.svg
+          # Use the entire contribution graph (optionally)
+          # If you have a larger contribution graph you might want to specify the full range
+          time_range: full
 
       - name: Add & Commit
         run: |
