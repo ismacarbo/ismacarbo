@@ -49,5 +49,5 @@ I'm **Ismaele Carbonari**, a Computer Science student from Trento 🇮🇹 with 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isma-carbo-6a9a32251/)  
-[![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tiados04@gmail.com)  
 [![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?logo=freelancer&logoColor=white)](https://www.freelancer.com/u/ismacarbo)
