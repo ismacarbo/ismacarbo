@@ -8,7 +8,7 @@ I'm **Ismaele Carbonari**, a Computer Science student from Trento 🇮🇹 with 
 - 🧠 **Learning:** `C`, `C++`, `Java`, `Python`, `WebDev`, `Arduino`  
 - 📱 **Passionate about Mobile Development**  
 - 📜 **Certified:** Cisco CCNAv2 (2022)  
-- 🌐 **Personal site:** [ismacarbo.zapto.org](https://ismacarbo.zapto.org/) (yes, it's home-hosted! 😎)
+- 🌐 **Personal site:** [ismaelecarbo.duckdns.org/portfolio](https://ismaelecarbo.duckdns.org/portfolio) (yes, it's home-hosted! 😎)
 
 ---
 
