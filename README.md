@@ -2,7 +2,8 @@ Hi there 🦖
 I'm **Ismaele Carbonari**, a Computer Science student from Trento 🇮🇹 with a passion for software engineering, cybersecurity, and robotics. Always curious and constantly learning.
 
 - 🎓 **CS Student** at [UniTN](https://www.disi.unitn.it/it)  
-- 🏎️ **Software Engineer** at [E-agle TRT](https://www.eagletrt.it/)  
+- 🏎️ **Software Engineer** at [E-agle TRT](https://www.eagletrt.it/)
+- 💡 **Software Developer Intern** at [Femtorays](https://femtorays.com/)
 - 🛡️ **Cybersecurity Enthusiast** — participated in [CyberChallenge.IT](https://cyberchallenge.it/) 2024  
 - 🤖 **Robotics & Low-level Programming** enthusiast  
 - 🧠 **Learning:** `C`, `C++`, `Java`, `Python`, `WebDev`, `Arduino`  
