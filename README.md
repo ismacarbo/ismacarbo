@@ -47,6 +47,14 @@ I'm **Ismaele Carbonari**, a Computer Science student from Trento 🇮🇹 with 
 
 ---
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isax03/Isax03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isax03/Isax03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</div>
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isma-carbo-6a9a32251/)  
