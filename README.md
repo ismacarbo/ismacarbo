@@ -36,18 +36,6 @@ I'm **Ismaele Carbonari**, a Computer Science student from Trento 🇮🇹 with 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 
----
-
-### 🌱 Currently working on...
-
-- 🏋️‍♂️ **Ego Rank** — a gamified fitness tracking web app  
-  Users can log their gym lifts (bench press, squat, deadlift), compete on leaderboards, and reach ranks like **Novice, Gladiator, Champion, Hero**. Includes progress forecasts and Google/email login.
-
-- 🍓 Improving my skills with **Raspberry Pi** for hardware/software integration, scripting, and automation.
-
----
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isax03/Isax03/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isax03/Isax03/output/github-snake.svg" />
