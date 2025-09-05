@@ -1,31 +1,15 @@
 Hi there 🦖  
 I'm **Ismaele Carbonari**, a Computer Science student from Trento 🇮🇹 with a passion for software engineering, cybersecurity, and robotics. Always curious and constantly learning.
 
-- 🎓 **CS Student** at [UniTN](https://www.disi.unitn.it/it)  
+- 🎓 **CS Student** at [UniTN](https://www.disi.unitn.it/it)
+- 💡 **I'm working at** at [Femtorays](https://femtorays.com/)
 - 🏎️ **Software Engineer** at [E-agle TRT](https://www.eagletrt.it/)
-- 💡 **Software Developer Intern** at [Femtorays](https://femtorays.com/)
 - 🛡️ **Cybersecurity Enthusiast** — participated in [CyberChallenge.IT](https://cyberchallenge.it/) 2024  
 - 🤖 **Robotics & Low-level Programming** enthusiast  
 - 🧠 **Learning:** `C`, `C++`, `Java`, `Python`, `WebDev`, `Arduino`  
 - 📱 **Passionate about Mobile Development**  
 - 📜 **Certified:** Cisco CCNAv2 (2022)  
 - 🌐 **Personal site:** [https://ismacarbo.com/portfolio](https://ismacarbo.com/portfolio) (yes, it's home-hosted! 😎)
-
----
-
-### 🚀 Featured Projects
-
-- 📡 **Raspberry Pi Monitor**  
-  A lightweight monitoring system written in Python + Bash to track CPU, temperature, and network stats on a headless Raspberry Pi. Includes Telegram bot integration for alerts.
-
-- 👾 **Invaders Game (JavaFX + ESP8266)**  
-  A JavaFX game where the player, controlled by a steering wheel made with an ESP8266 and an MPU6050, navigates through a map full of obstacles, avoids enemies, and shoots directional projectiles.  
-  The project follows the **MVC pattern** for a clean and maintainable structure.
-
-- 🧠 **Face Recognition with OpenCV**  
-  Real-time face recognition system using OpenCV and Haar cascades, optimized for Raspberry Pi. Includes live camera feed, bounding boxes, and identity detection.
-
----
 
 ### 🛠️ Tools & Technologies
 ![C](https://img.shields.io/badge/-C-00599C?logo=c)
