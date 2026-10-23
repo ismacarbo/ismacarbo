@@ -1,5 +1,5 @@
 Hi there 🦖  
-I'm **Ismaele Carbonari**, a Computer Science student at UniTrento 🇮🇹 working at the intersection of **Autonomous Systems, Robotics, and Artificial Intelligence**.
+I'm **Ismaele Carbonari**, a AI Systems student at UniTrento 🇮🇹 working at the intersection of **Autonomous Systems, Robotics, and Artificial Intelligence**.
 
 My work focuses on bridging **algorithmic research and real-world robotic systems**, with particular interest in **motion planning, perception, and control**.
 
